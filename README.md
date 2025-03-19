@@ -29,5 +29,5 @@ Route::get('/api/history?sensor=1') - Получение истории знач
 ## Протестируйте работу с API на простых формах
 ### Откройте сайт http://localhost:8000
 
-# Пример отображаемых данных
+# Пример отображаемых данных + валидация
 ![Тестовая страница](https://github.com/finesko1/sensor_API/tree/master/public/test.png)
